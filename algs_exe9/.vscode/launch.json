@@ -1,0 +1,38 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "args": [
+                "dictionary-algs4.txt",
+                "board-q.txt"
+            ],
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BoggleBoard<Boggle_763537e5>",
+            "request": "launch",
+            "mainClass": "BoggleBoard",
+            "projectName": "Boggle_763537e5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BoggleSolver<Boggle_763537e5>",
+            "request": "launch",
+            "mainClass": "BoggleSolver",
+            "projectName": "Boggle_763537e5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BaseballElimination",
+            "request": "launch",
+            "mainClass": "BaseballElimination"
+        }
+    ]
+}

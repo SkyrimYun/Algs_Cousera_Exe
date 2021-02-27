@@ -1,0 +1,1207 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "args": [
+                50,
+                50
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Percolation<javaprotest>",
+            "request": "launch",
+            "mainClass": "Percolation",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PercolationStats<javaprotest>",
+            "request": "launch",
+            "mainClass": "PercolationStats",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestAlgs4<javaprotest>",
+            "request": "launch",
+            "mainClass": "TestAlgs4",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AcyclicLP<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AcyclicLP",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AcyclicSP<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AcyclicSP",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AdjMatrixEdgeWeightedDigraph<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AdjMatrixEdgeWeightedDigraph",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Alphabet<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Alphabet",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Arbitrage<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Arbitrage",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AssignmentProblem<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AssignmentProblem",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Average<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Average",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BST<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BST",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BTree<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BTree",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bag<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Bag",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BellmanFordSP<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BellmanFordSP",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryDump<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryDump",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryIn<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryIn",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryOut<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryOut",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinarySearch<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinarySearch",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinarySearchST<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinarySearchST",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryStdIn<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryStdIn",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryStdOut<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryStdOut",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bipartite<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Bipartite",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BipartiteMatching<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BipartiteMatching",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BlackFilter<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BlackFilter",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BoruvkaMST<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BoruvkaMST",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BoyerMoore<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BoyerMoore",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BreadthFirstDirectedPaths<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BreadthFirstDirectedPaths",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BreadthFirstPaths<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BreadthFirstPaths",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CC<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.CC",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CPM<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.CPM",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Cat<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Cat",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ClosestPair<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ClosestPair",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CollisionSystem<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.CollisionSystem",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Complex<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Complex",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Count<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Count",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Counter<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Counter",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Cycle<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Cycle",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Date<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Date",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DeDup<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DeDup",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DegreesOfSeparation<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DegreesOfSeparation",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepthFirstDirectedPaths<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DepthFirstDirectedPaths",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepthFirstOrder<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DepthFirstOrder",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepthFirstPaths<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DepthFirstPaths",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepthFirstSearch<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DepthFirstSearch",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Digraph<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Digraph",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DigraphGenerator<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DigraphGenerator",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DijkstraSP<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DijkstraSP",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DijkstraUndirectedSP<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DijkstraUndirectedSP",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedCycle<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedCycle",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedCycleX<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedCycleX",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedDFS<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedDFS",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedEdge<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedEdge",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoublingRatio<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DoublingRatio",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoublingTest<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DoublingTest",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Draw<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Draw",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Edge<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Edge",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EdgeWeightedDigraph<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.EdgeWeightedDigraph",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EdgeWeightedDirectedCycle<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.EdgeWeightedDirectedCycle",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EdgeWeightedGraph<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.EdgeWeightedGraph",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FFT<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FFT",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FarthestPair<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FarthestPair",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FenwickTree<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FenwickTree",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FileIndex<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FileIndex",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FlowEdge<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FlowEdge",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FlowNetwork<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FlowNetwork",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FloydWarshall<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FloydWarshall",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FordFulkerson<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FordFulkerson",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FrequencyCounter<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FrequencyCounter",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GREP<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GREP",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GabowSCC<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GabowSCC",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GaussianElimination<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GaussianElimination",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Genome<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Genome",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GrahamScan<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GrahamScan",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Graph<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Graph",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GraphGenerator<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GraphGenerator",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Heap<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Heap",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HexDump<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.HexDump",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Huffman<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Huffman",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-In<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.In",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IndexMaxPQ<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.IndexMaxPQ",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IndexMinPQ<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.IndexMinPQ",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Insertion<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Insertion",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InsertionX<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.InsertionX",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Interval1D<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Interval1D",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Interval2D<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Interval2D",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KMP<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.KMP",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KWIK<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.KWIK",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Knuth<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Knuth",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KosarajuSharirSCC<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.KosarajuSharirSCC",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KruskalMST<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.KruskalMST",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LRS<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LRS",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LSD<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LSD",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LZW<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LZW",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LazyPrimMST<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LazyPrimMST",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinearProbingHashST<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LinearProbingHashST",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedBag<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LinkedBag",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedQueue<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LinkedQueue",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedStack<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LinkedStack",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestCommonSubstring<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LongestCommonSubstring",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LookupCSV<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LookupCSV",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LookupIndex<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LookupIndex",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MSD<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MSD",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaxPQ<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MaxPQ",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Merge<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Merge",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeBU<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MergeBU",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeX<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MergeX",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinPQ<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MinPQ",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Multiway<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Multiway",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NFA<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.NFA",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NonrecursiveDFS<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.NonrecursiveDFS",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NonrecursiveDirectedDFS<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.NonrecursiveDirectedDFS",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Out<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Out",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PatriciaSET<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.PatriciaSET",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PatriciaST<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.PatriciaST",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Picture<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Picture",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PictureDump<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.PictureDump",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Point2D<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Point2D",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrimMST<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.PrimMST",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Queue<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Queue",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Quick<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Quick",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Quick3string<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Quick3string",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Quick3way<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Quick3way",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickFindUF<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.QuickFindUF",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickUnionUF<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.QuickUnionUF",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickX<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.QuickX",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RabinKarp<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.RabinKarp",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RandomSeq<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.RandomSeq",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RedBlackBST<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.RedBlackBST",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ResizingArrayBag<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ResizingArrayBag",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ResizingArrayQueue<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ResizingArrayQueue",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ResizingArrayStack<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ResizingArrayStack",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RunLength<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.RunLength",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SET<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SET",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ST<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ST",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SegmentTree<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SegmentTree",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Selection<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Selection",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SeparateChainingHashST<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SeparateChainingHashST",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SequentialSearchST<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SequentialSearchST",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Shell<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Shell",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Simplex<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Simplex",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SparseVector<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SparseVector",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Stack<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Stack",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdArrayIO<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdArrayIO",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdAudio<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdAudio",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdDraw<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdDraw",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdIn<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdIn",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdOut<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdOut",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdRandom<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdRandom",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdStats<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdStats",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SuffixArray<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SuffixArray",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SuffixArrayX<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SuffixArrayX",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SymbolDigraph<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SymbolDigraph",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SymbolGraph<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SymbolGraph",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TST<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TST",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TarjanSCC<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TarjanSCC",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThreeSum<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ThreeSum",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThreeSumFast<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ThreeSumFast",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TopM<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TopM",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Topological<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Topological",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TopologicalX<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TopologicalX",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Transaction<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Transaction",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TransitiveClosure<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TransitiveClosure",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TrieSET<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TrieSET",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TrieST<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TrieST",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UF<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.UF",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Vector<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Vector",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WeightedQuickUnionUF<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.WeightedQuickUnionUF",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WhiteFilter<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.WhiteFilter",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Whitelist<javaprotest>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Whitelist",
+            "projectName": "javaprotest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PercolationStats",
+            "request": "launch",
+            "mainClass": "PercolationStats"
+        }
+    ]
+}

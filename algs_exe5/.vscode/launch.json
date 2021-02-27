@@ -1,0 +1,1373 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "args": "input.txt",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KdTree<kd_tree>",
+            "request": "launch",
+            "mainClass": "KdTree",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KdTreeVisualizer<kd_tree>",
+            "request": "launch",
+            "mainClass": "KdTreeVisualizer",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NearestNeighborVisualizer<kd_tree>",
+            "request": "launch",
+            "mainClass": "NearestNeighborVisualizer",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PointSET<kd_tree>",
+            "request": "launch",
+            "mainClass": "PointSET",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RangeSearchVisualizer<kd_tree>",
+            "request": "launch",
+            "mainClass": "RangeSearchVisualizer",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestAlgs4<kd_tree>",
+            "request": "launch",
+            "mainClass": "TestAlgs4",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AVLTreeST<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AVLTreeST",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Accumulator<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Accumulator",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AcyclicLP<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AcyclicLP",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AcyclicSP<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AcyclicSP",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AdjMatrixEdgeWeightedDigraph<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AdjMatrixEdgeWeightedDigraph",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Alphabet<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Alphabet",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AmericanFlag<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AmericanFlag",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AmericanFlagX<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AmericanFlagX",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Arbitrage<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Arbitrage",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AssignmentProblem<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AssignmentProblem",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Average<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Average",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BST<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BST",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BTree<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BTree",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bag<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Bag",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BellmanFordSP<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BellmanFordSP",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryDump<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryDump",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryIn<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryIn",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryInsertion<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryInsertion",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryOut<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryOut",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinarySearch<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinarySearch",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinarySearchST<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinarySearchST",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryStdIn<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryStdIn",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryStdOut<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryStdOut",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bipartite<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Bipartite",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BipartiteMatching<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BipartiteMatching",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BipartiteX<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BipartiteX",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BlackFilter<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BlackFilter",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BoruvkaMST<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BoruvkaMST",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BoyerMoore<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BoyerMoore",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BreadthFirstDirectedPaths<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BreadthFirstDirectedPaths",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BreadthFirstPaths<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BreadthFirstPaths",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CC<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.CC",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CPM<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.CPM",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Cat<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Cat",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ClosestPair<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ClosestPair",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CollisionSystem<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.CollisionSystem",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Complex<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Complex",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Count<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Count",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Counter<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Counter",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Cycle<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Cycle",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Date<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Date",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DeDup<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DeDup",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DegreesOfSeparation<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DegreesOfSeparation",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepthFirstDirectedPaths<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DepthFirstDirectedPaths",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepthFirstOrder<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DepthFirstOrder",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepthFirstPaths<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DepthFirstPaths",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepthFirstSearch<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DepthFirstSearch",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Digraph<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Digraph",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DigraphGenerator<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DigraphGenerator",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DijkstraAllPairsSP<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DijkstraAllPairsSP",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DijkstraSP<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DijkstraSP",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DijkstraUndirectedSP<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DijkstraUndirectedSP",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedCycle<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedCycle",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedCycleX<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedCycleX",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedDFS<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedDFS",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedEdge<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedEdge",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedEulerianCycle<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedEulerianCycle",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedEulerianPath<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedEulerianPath",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoublingRatio<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DoublingRatio",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoublingTest<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DoublingTest",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Draw<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Draw",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Edge<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Edge",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EdgeWeightedDigraph<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.EdgeWeightedDigraph",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EdgeWeightedDirectedCycle<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.EdgeWeightedDirectedCycle",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EdgeWeightedGraph<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.EdgeWeightedGraph",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EulerianCycle<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.EulerianCycle",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EulerianPath<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.EulerianPath",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FFT<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FFT",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FarthestPair<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FarthestPair",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FenwickTree<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FenwickTree",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FileIndex<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FileIndex",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FlowEdge<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FlowEdge",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FlowNetwork<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FlowNetwork",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FloydWarshall<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FloydWarshall",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FordFulkerson<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FordFulkerson",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FrequencyCounter<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FrequencyCounter",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GREP<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GREP",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GabowSCC<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GabowSCC",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GaussJordanElimination<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GaussJordanElimination",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GaussianElimination<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GaussianElimination",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Genome<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Genome",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GlobalMincut<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GlobalMincut",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GrahamScan<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GrahamScan",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Graph<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Graph",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GraphGenerator<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GraphGenerator",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GrayscalePicture<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GrayscalePicture",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Heap<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Heap",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HexDump<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.HexDump",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HopcroftKarp<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.HopcroftKarp",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Huffman<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Huffman",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-In<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.In",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IndexMaxPQ<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.IndexMaxPQ",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IndexMinPQ<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.IndexMinPQ",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InplaceMSD<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.InplaceMSD",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Insertion<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Insertion",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InsertionX<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.InsertionX",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Interval1D<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Interval1D",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Interval2D<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Interval2D",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Inversions<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Inversions",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KMP<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.KMP",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KWIK<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.KWIK",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Knuth<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Knuth",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KosarajuSharirSCC<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.KosarajuSharirSCC",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KruskalMST<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.KruskalMST",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LSD<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LSD",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LZW<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LZW",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LazyPrimMST<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LazyPrimMST",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinearProbingHashST<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LinearProbingHashST",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinearProgramming<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LinearProgramming",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedBag<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LinkedBag",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedQueue<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LinkedQueue",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedStack<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LinkedStack",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestCommonSubstring<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LongestCommonSubstring",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestRepeatedSubstring<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LongestRepeatedSubstring",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LookupCSV<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LookupCSV",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LookupIndex<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LookupIndex",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MSD<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MSD",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaxPQ<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MaxPQ",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Merge<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Merge",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeBU<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MergeBU",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeX<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MergeX",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinPQ<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MinPQ",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Multiway<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Multiway",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NFA<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.NFA",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NonrecursiveDFS<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.NonrecursiveDFS",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NonrecursiveDirectedDFS<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.NonrecursiveDirectedDFS",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Out<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Out",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PatriciaSET<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.PatriciaSET",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PatriciaST<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.PatriciaST",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Picture<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Picture",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PictureDump<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.PictureDump",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Point2D<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Point2D",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Polynomial<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Polynomial",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrimMST<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.PrimMST",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Queue<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Queue",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Quick<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Quick",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Quick3string<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Quick3string",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Quick3way<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Quick3way",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickBentleyMcIlroy<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.QuickBentleyMcIlroy",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickFindUF<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.QuickFindUF",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickUnionUF<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.QuickUnionUF",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickX<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.QuickX",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RabinKarp<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.RabinKarp",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RandomSeq<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.RandomSeq",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RedBlackBST<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.RedBlackBST",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ResizingArrayBag<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ResizingArrayBag",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ResizingArrayQueue<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ResizingArrayQueue",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ResizingArrayStack<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ResizingArrayStack",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RunLength<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.RunLength",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SET<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SET",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ST<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ST",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SegmentTree<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SegmentTree",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Selection<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Selection",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SeparateChainingHashST<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SeparateChainingHashST",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SequentialSearchST<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SequentialSearchST",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Shell<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Shell",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SparseVector<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SparseVector",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Stack<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Stack",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdArrayIO<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdArrayIO",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdAudio<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdAudio",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdDraw<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdDraw",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdIn<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdIn",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdOut<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdOut",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdRandom<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdRandom",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdStats<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdStats",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Stopwatch<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Stopwatch",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StopwatchCPU<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StopwatchCPU",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SuffixArray<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SuffixArray",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SuffixArrayX<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SuffixArrayX",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SymbolDigraph<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SymbolDigraph",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SymbolGraph<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SymbolGraph",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TST<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TST",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TarjanSCC<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TarjanSCC",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThreeSum<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ThreeSum",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThreeSumFast<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ThreeSumFast",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TopM<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TopM",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Topological<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Topological",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TopologicalX<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TopologicalX",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Transaction<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Transaction",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TransitiveClosure<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TransitiveClosure",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TrieSET<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TrieSET",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TrieST<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TrieST",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TwoPersonZeroSumGame<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TwoPersonZeroSumGame",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UF<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.UF",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Vector<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Vector",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WeightedQuickUnionUF<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.WeightedQuickUnionUF",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WhiteFilter<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.WhiteFilter",
+            "projectName": "kd_tree"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Whitelist<kd_tree>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Whitelist",
+            "projectName": "kd_tree"
+        }
+    ]
+}

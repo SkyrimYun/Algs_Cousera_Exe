@@ -1,0 +1,1204 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "args": "puzzle01.txt"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Board<8_puzzle>",
+            "request": "launch",
+            "mainClass": "Board",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solver<8_puzzle>",
+            "request": "launch",
+            "mainClass": "Solver",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestAlgs4<8_puzzle>",
+            "request": "launch",
+            "mainClass": "TestAlgs4",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AcyclicLP<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AcyclicLP",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AcyclicSP<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AcyclicSP",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AdjMatrixEdgeWeightedDigraph<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AdjMatrixEdgeWeightedDigraph",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Alphabet<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Alphabet",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Arbitrage<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Arbitrage",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AssignmentProblem<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AssignmentProblem",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Average<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Average",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BST<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BST",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BTree<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BTree",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bag<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Bag",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BellmanFordSP<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BellmanFordSP",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryDump<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryDump",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryIn<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryIn",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryOut<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryOut",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinarySearch<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinarySearch",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinarySearchST<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinarySearchST",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryStdIn<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryStdIn",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryStdOut<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryStdOut",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bipartite<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Bipartite",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BipartiteMatching<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BipartiteMatching",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BlackFilter<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BlackFilter",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BoruvkaMST<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BoruvkaMST",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BoyerMoore<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BoyerMoore",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BreadthFirstDirectedPaths<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BreadthFirstDirectedPaths",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BreadthFirstPaths<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BreadthFirstPaths",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CC<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.CC",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CPM<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.CPM",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Cat<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Cat",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ClosestPair<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ClosestPair",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CollisionSystem<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.CollisionSystem",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Complex<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Complex",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Count<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Count",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Counter<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Counter",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Cycle<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Cycle",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Date<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Date",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DeDup<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DeDup",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DegreesOfSeparation<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DegreesOfSeparation",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepthFirstDirectedPaths<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DepthFirstDirectedPaths",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepthFirstOrder<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DepthFirstOrder",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepthFirstPaths<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DepthFirstPaths",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepthFirstSearch<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DepthFirstSearch",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Digraph<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Digraph",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DigraphGenerator<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DigraphGenerator",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DijkstraSP<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DijkstraSP",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DijkstraUndirectedSP<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DijkstraUndirectedSP",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedCycle<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedCycle",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedCycleX<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedCycleX",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedDFS<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedDFS",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedEdge<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedEdge",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoublingRatio<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DoublingRatio",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoublingTest<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DoublingTest",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Draw<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Draw",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Edge<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Edge",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EdgeWeightedDigraph<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.EdgeWeightedDigraph",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EdgeWeightedDirectedCycle<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.EdgeWeightedDirectedCycle",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EdgeWeightedGraph<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.EdgeWeightedGraph",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FFT<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FFT",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FarthestPair<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FarthestPair",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FenwickTree<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FenwickTree",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FileIndex<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FileIndex",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FlowEdge<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FlowEdge",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FlowNetwork<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FlowNetwork",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FloydWarshall<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FloydWarshall",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FordFulkerson<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FordFulkerson",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FrequencyCounter<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FrequencyCounter",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GREP<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GREP",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GabowSCC<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GabowSCC",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GaussianElimination<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GaussianElimination",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Genome<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Genome",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GrahamScan<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GrahamScan",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Graph<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Graph",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GraphGenerator<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GraphGenerator",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Heap<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Heap",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HexDump<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.HexDump",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Huffman<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Huffman",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-In<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.In",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IndexMaxPQ<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.IndexMaxPQ",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IndexMinPQ<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.IndexMinPQ",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Insertion<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Insertion",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InsertionX<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.InsertionX",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Interval1D<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Interval1D",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Interval2D<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Interval2D",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KMP<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.KMP",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KWIK<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.KWIK",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Knuth<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Knuth",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KosarajuSharirSCC<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.KosarajuSharirSCC",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KruskalMST<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.KruskalMST",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LRS<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LRS",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LSD<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LSD",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LZW<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LZW",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LazyPrimMST<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LazyPrimMST",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinearProbingHashST<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LinearProbingHashST",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedBag<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LinkedBag",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedQueue<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LinkedQueue",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedStack<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LinkedStack",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestCommonSubstring<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LongestCommonSubstring",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LookupCSV<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LookupCSV",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LookupIndex<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LookupIndex",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MSD<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MSD",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaxPQ<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MaxPQ",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Merge<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Merge",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeBU<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MergeBU",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeX<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MergeX",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinPQ<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MinPQ",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Multiway<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Multiway",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NFA<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.NFA",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NonrecursiveDFS<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.NonrecursiveDFS",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NonrecursiveDirectedDFS<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.NonrecursiveDirectedDFS",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Out<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Out",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PatriciaSET<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.PatriciaSET",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PatriciaST<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.PatriciaST",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Picture<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Picture",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PictureDump<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.PictureDump",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Point2D<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Point2D",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrimMST<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.PrimMST",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Queue<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Queue",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Quick<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Quick",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Quick3string<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Quick3string",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Quick3way<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Quick3way",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickFindUF<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.QuickFindUF",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickUnionUF<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.QuickUnionUF",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickX<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.QuickX",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RabinKarp<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.RabinKarp",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RandomSeq<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.RandomSeq",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RedBlackBST<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.RedBlackBST",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ResizingArrayBag<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ResizingArrayBag",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ResizingArrayQueue<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ResizingArrayQueue",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ResizingArrayStack<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ResizingArrayStack",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RunLength<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.RunLength",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SET<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SET",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ST<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ST",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SegmentTree<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SegmentTree",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Selection<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Selection",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SeparateChainingHashST<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SeparateChainingHashST",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SequentialSearchST<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SequentialSearchST",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Shell<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Shell",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Simplex<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Simplex",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SparseVector<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SparseVector",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Stack<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Stack",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdArrayIO<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdArrayIO",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdAudio<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdAudio",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdDraw<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdDraw",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdIn<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdIn",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdOut<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdOut",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdRandom<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdRandom",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdStats<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdStats",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SuffixArray<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SuffixArray",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SuffixArrayX<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SuffixArrayX",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SymbolDigraph<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SymbolDigraph",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SymbolGraph<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SymbolGraph",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TST<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TST",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TarjanSCC<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TarjanSCC",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThreeSum<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ThreeSum",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThreeSumFast<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ThreeSumFast",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TopM<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TopM",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Topological<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Topological",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TopologicalX<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TopologicalX",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Transaction<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Transaction",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TransitiveClosure<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TransitiveClosure",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TrieSET<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TrieSET",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TrieST<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TrieST",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UF<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.UF",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Vector<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Vector",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WeightedQuickUnionUF<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.WeightedQuickUnionUF",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WhiteFilter<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.WhiteFilter",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Whitelist<8_puzzle>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Whitelist",
+            "projectName": "8_puzzle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solver",
+            "request": "launch",
+            "mainClass": "Solver"
+        }
+    ]
+}
